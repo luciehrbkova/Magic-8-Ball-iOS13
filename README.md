@@ -1,4 +1,3 @@
-![App Brewery Banner]
 
 # Magic 8 Ball
 
